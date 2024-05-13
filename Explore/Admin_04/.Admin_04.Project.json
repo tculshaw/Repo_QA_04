@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "0AUSptbwfk7lFpR8k0Pscq",
+    "name" : "Admin_04",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-13T00:13:19.136Z",
+  "objectRefs" : [ ]
+}
